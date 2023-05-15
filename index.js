@@ -26,13 +26,13 @@ function play(question, answer) {
 
 play("Which cartoon do I like the most? ", "doraemon")
 
-play("What's my most fav dish? ", "noodles")
+play("What is my most fav dish? ", "noodles")
 
-play("What's my most fav color? ", "black")
+play("What is my most fav color? ", "black")
 
-play("Who's my fav actor? ", "siva karthikeyan")
+play("Who is my fav actor? ", "siva karthikeyan")
 
-play("Who's my fav musician? ", "yuvan")
+play("Who is my fav musician? ", "yuvan")
 
 
 console.log("Final Score: ", score)
