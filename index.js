@@ -32,7 +32,7 @@ play("What is my most fav color? ", "black")
 
 play("Who is my fav actor? ", "siva karthikeyan")
 
-play("Who is my fav musician? ", "yuvan")
+play("Who is my fav music director? ", "yuvan")
 
 
 console.log("Final Score: ", score)
